@@ -1,0 +1,37 @@
+header {
+    text-align: center;
+    font-size: 100px;
+    color: #2D3033;
+    font-family:fantasy;
+    padding-top: 200px;
+}
+
+.game {
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#playButton{
+    border-radius: 10px;
+    width: 180px;
+    font-family:monospace;
+    font-weight: 500;
+    background-color: #ACBD78;
+    color:white;
+}
+
+
+#resetButton{
+    border-radius: 10px;
+    width: 180px;
+    font-family:monospace;
+    font-weight: 500;
+    background-color: #A4CABC;
+    color:white;
+}

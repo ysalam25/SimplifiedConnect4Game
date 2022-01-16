@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    font-family:monospace;
+    color: #ffffff;
+    line-height: 20px;
+}
+
+.game-board{
+    background-color: #4963f8;
+    margin-top: 10px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 25px;
+}
